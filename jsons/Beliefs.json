@@ -17,13 +17,13 @@
     {
         "name": "Lord of the Lies",
         "type": "Pantheon",
-        "uniques": ["[-2 Science, +2 Faith] from every [Library]"]
+        "uniques": ["[-2 Science, +2 Faith] from every [Field Lab]", "[-2 Science, +2 Faith] from every [Research Laboratory]"]
     },
 
     {
         "name": "Where no man has gone before",
         "type": "Follower",
-        "uniques": ["[+2 Science, +1 Culture, +1 Faith] from every [Mountain]"]
+        "uniques": ["[+2 Science, +1 Culture, +1 Faith] from every [Mountain]", "[+2 Science, +1 Culture, +1 Faith] from every [Mountain Tunnel]"]
     },
     {
         "name": "Freedom to Share",
@@ -38,7 +38,7 @@
     {
         "name": "Mess hall karaoke",
         "type": "Follower",
-        "uniques": ["[-1 Culture, +3 Food] from every [Barracks]"]
+        "uniques": ["[-1 Culture, +3 Food] from every [Frontier Armory]"]
     },
     {
         "name": "March till you drop",
