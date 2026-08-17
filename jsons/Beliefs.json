@@ -7,12 +7,12 @@
     {
         "name": "The Ancient Ones",
         "type": "Pantheon",
-        "uniques": ["[+1 Food, +1 Faith, +1 Gold] from every [Shrine] <when below [0] [Happiness]>"]
+        "uniques": ["[+1 Food, +1 Faith, +1 Gold] from every [Memorial] <when below [0] [Happiness]>"]
     },
     {
         "name": "Mirthful Worship",
         "type": "Pantheon",
-        "uniques": ["[+1 Happiness] from every [Shrine] <when not at war>"]
+        "uniques": ["[+1 Happiness] from every [Memorial] <when not at war>"]
     },
     {
         "name": "Lord of the Lies",
@@ -58,12 +58,12 @@
         "name": "Inquisition",
         "type": "Founder",
         "uniques": ["[+2 Happiness, +1 Production, -1 Science, -1 Culture] from every [2] global followers [in annexed cities]",
-                    "May buy [Inquisitor] units with [Gold] [in annexed cities]"]
+                    "May buy [Expunger] units with [Gold] [in annexed cities]"]
     },
     {
         "name": "Forced Labour",
         "type": "Enhancer",
-        "uniques": ["May buy [Worker] units for [100] [Faith] [in cities following this religion]"]
+        "uniques": ["May buy [Constructor] units for [100] [Faith] [in cities following this religion]"]
     },
     {
         "name": "Planned obsolescence",
